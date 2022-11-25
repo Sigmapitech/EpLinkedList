@@ -1,0 +1,25 @@
+# Assignment
+*.pdf
+
+# IDE Config
+.vs
+.vscode
+.idea
+
+# Build
+build
+
+# Coverage
+tests/coverage
+*.gcda
+*.gcno
+
+# Lib
+*.a
+
+# Log
+logs
+*.log
+
+# Tests
+unit_tests
